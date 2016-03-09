@@ -1,0 +1,10 @@
+/* 575 boilerplate style.css */
+.container{
+	background-color: gray;
+}
+
+.rectangle{
+	fill: #542d44;
+	"x": 100;
+	"y": 100;
+}
